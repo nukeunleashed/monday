@@ -1,8 +1,10 @@
 body {
     background-color: blue;
+    font-family: Helvetica, sans-serif;
 }
 h1,h2 {
-    color: white;
+    color: #dedede;
     text-align: center;
     font-size: 200px;
+    font-style: italic;
 }
